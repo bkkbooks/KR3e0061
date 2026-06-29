@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3e0061/krp/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部五
+  hash: sha256:385bc2d94867d1b606f43bb11ebdc68a3a5579aafe48be2b02b9eb652717f689
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3e0061_WYG_000-1a, image: WYG0746/WYG0746-0675a.png}
+body:
+  text: 局方發揮醫家類提要臣等謹案局方發揮一卷元朱震亨撰以和劑局方不載病源止于各方下條列症候立法簡便而未能變通因一一為之辨論大旨專為闢溫補戒燥熱而作張介賔景嶽全書云局方一書宋神宗案此方成於徽宗之時介賔以為神宗殊為舛誤謹附訂於此詔天下髙醫秦進而成雖其中或有過於粉飾者神效之方亦必不少豈可輕議云云其意頗不以震亨為然考震亨之學出於宋內官羅知悌知悌之學距河間劉完素僅隔一傳完素主於㵼火震亨則主於滋隂雖一攻其有餘其劑峻利一補其不足其劑和平而大旨不離其淵源故於局方香竄燥烈諸藥諄諄致辨明以來沿其波者往往以黃蘗知母戕傷元氣介賔鍳其末流故惟以益火為宗掊擊劉朱不遺餘力其氷雪凛冽為不和以天晴日暖為和取譬固是然清風凉雨亦不能謂之不和鑠石流金亦不能強謂之和各明一義而忘其各執一偏其病實相等也故介賔之說不可不知而震亨是編亦未可竟廢焉乾隆四十六年十月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:44d7c4586b2a633dac456bda4497cbadb122c6c60734e4a656fbb1aff5e8a632
+metadata:
+  title: 局方發揮
+  edition:
+    short: krp
+  base_edition: WYG
+  date: '2015-08-24 23:06:18.866231'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3e0061/KR3e0061_000.txt
+hash: sha256:0ae5018e455fc10d5193d17bd171673b7846da280d564eebcf692a03053964b4
