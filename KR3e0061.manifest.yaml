@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3e0061_000.yaml, hash: 'sha256:d76da1473c119d72155a62e5ffad258856fb1b3c88ec73dcabe8c53e6fc3f6a7'}
   - {seq: 1, filename: KR3e0061_001.yaml, hash: 'sha256:e4faf98800641f5f384c06ce99af7785f3187c482b6db900cb8e556449d1cae5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0061_000.markers.yaml, hash: 'sha256:10c49374e72aff92c831c39ae07a03f41d9bfc21470b378cd861e5ab98086e10'}
-  - {seq: 1, role: markers, filename: assets/KR3e0061_001.markers.yaml, hash: 'sha256:33f1793c5ca449c50451dd7ff3fc1d87c8ab796bb1a065b85d29a5c07af690f2'}
+  - {seq: 0, role: markers, filename: assets/KR3e0061_000.markers.yaml, hash: 'sha256:7e831e40c4dc9d6d828580d93c03dc53c41f6f3c51145b44e7d743ed47d80899'}
+  - {seq: 1, role: markers, filename: assets/KR3e0061_001.markers.yaml, hash: 'sha256:af1bf588f1ce4039a5a1c26f8470e5b6c7ec1ab643d62a1ea8d74b80683e0ac8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -46,7 +46,7 @@ table_of_contents:
   label: 局方發揮
   type: section
   level: 1
-hash: sha256:2c943bd365d5a40c39497c21a15d66e8666f022cfc1c58c119218bc513754bad
+hash: sha256:29b43f8d61bfb68139fedc43a5903615ac1bc7f346688f3f4e598656b9c860ff
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

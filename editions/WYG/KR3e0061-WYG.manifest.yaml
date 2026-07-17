@@ -20,8 +20,8 @@ assets:
   - {seq: 0, filename: KR3e0061_000-WYG.yaml, hash: 'sha256:0a5239061c5bc0417766815777fe3fcdb10dc2f555137ea410d7ed5fa33906b0'}
   - {seq: 1, filename: KR3e0061_001-WYG.yaml, hash: 'sha256:ad7518b40df757fd47c09e83a07073ebc7190f147f943629ea65e3f392dd9532'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3e0061_000-WYG.markers.yaml, hash: 'sha256:14ed997587834f43ffb1a8ec59d09e77694e466145a3ba729d2645a802d22f73'}
-  - {seq: 1, role: markers, filename: assets/KR3e0061_001-WYG.markers.yaml, hash: 'sha256:b5fb9c8416faad9dfc3050ee57d928a8a76b509417ea9593e19488bc18fa265a'}
+  - {seq: 0, role: markers, filename: assets/KR3e0061_000-WYG.markers.yaml, hash: 'sha256:a5d41b8631762e9b205587cc93b52c4f0fc226060638af1e9c57fe29153e0451'}
+  - {seq: 1, role: markers, filename: assets/KR3e0061_001-WYG.markers.yaml, hash: 'sha256:77446bf026031bd2938f54f1136112280e9739e051e2bba350c43725df1a64eb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -43,4 +43,4 @@ table_of_contents:
   label: 局方發揮
   type: section
   level: 1
-hash: sha256:915830e80b103816361af1598eff93794a2389db83fa61f00910456ccacf9832
+hash: sha256:f4cd3c804e5ecc4eaa19bf45db525552d18c0ab9b143b95d0fb4440352ca41e0
